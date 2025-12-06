@@ -7,7 +7,7 @@ git clone https://github.com/Vivy110/junoauto.git
 cd junoauto
 ```
 ```bash
-chmod +X junodiva.sh
+chmod +x junodiva.sh
 ```
 ```bash
 ./junodiva.sh
