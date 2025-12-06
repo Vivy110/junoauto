@@ -1,7 +1,10 @@
-# THIS IS JUST STILL UNDER BUILD BUT YOU CAN TRY 
+# THIS IS STILL UNDER BUILD BUT YOU CAN TRY 
 
 ```bash
-git clone
+git clone https://github.com/Vivy110/junoauto.git
+```
+```bash
+cd junoauto
 ```
 ```bash
 chmod +X junodiva.sh
